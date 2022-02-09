@@ -3,7 +3,7 @@ layout: post
 categories: []
 title: Mein erster Post
 author: Christoph
-image: ''
+image: "/assets/images/jekyll.svg"
 
 ---
 # Abschnitt 1
