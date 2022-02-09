@@ -15,3 +15,5 @@ Was ist zu tun?
 * Jekyll fertigstellen
 * Seit in Forestry importieren
 * Testen, testen, testen
+
+  ![Jekyll Logo](/assets/images/jekyll.svg "Jekyll Logo")

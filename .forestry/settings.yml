@@ -9,7 +9,7 @@ sections:
   label: Layouts
   create: all
   match: "**/*"
-  new_doc_ext: ".html"
+  new_doc_ext: html
 - type: jekyll-posts
   label: Posts
   create: documents
